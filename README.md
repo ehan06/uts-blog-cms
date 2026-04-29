@@ -28,4 +28,4 @@ Aplikasi Web Blog CMS berbasis PHP dan MySQL dengan fitur CRUD (Create, Read, Up
 
 ## Author
 
-* Nama: (isi nama kamu)
+* Nama: Raihan Akbar Bachtiar(240605110094)
