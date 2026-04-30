@@ -1,4 +1,4 @@
-# Blog CMS - UTS Database Praktikum
+# Blog CMS - UTS Pemrograman Web
 
 ## Deskripsi
 
